@@ -27,7 +27,7 @@ const Index = () => {
   };
 
   return (
-    <VStack p={8}>
+    <VStack p={8} bg="gray.100">
       <Text fontSize="2xl" mb={8}>
         Simple Todo App
       </Text>
